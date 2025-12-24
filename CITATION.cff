@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the preferred citation below."
+title: "ENSO-ERA5 Climate Analysis Codebase"
+type: software
+license: MIT
+repository-code: "https://github.com/mafabiorx/Causal-ENSO"
+authors:
+  - family-names: Bellacanzone
+    given-names: Fabio
+  - family-names: Bordoni
+    given-names: Simona
+  - family-names: Shepherd
+    given-names: Theodore
+year: 2025
+keywords:
+  - climate
+  - ENSO
+  - ERA5
+  - causal discovery
+  - PCMCI+
+preferred-citation:
+  type: article
+  title: "South Tropical Atlantic and South Atlantic Convergence Zone: Opportunities for Long-Lead ENSO Diversity Prediction"
+  authors:
+    - family-names: Bellacanzone
+      given-names: Fabio
+    - family-names: Bordoni
+      given-names: Simona
+    - family-names: Shepherd
+      given-names: Theodore
+  year: 2025
+  status: "in review"

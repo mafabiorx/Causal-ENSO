@@ -1,0 +1,123 @@
+# Python bytecode and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+env.bak/
+venv/
+venv.bak/
+ENV/
+TBI_env/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+.pyre/
+.mypy_cache/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project data outputs
+data/
+results/
+*.nc
+*.nc4
+*.grib
+*.grib2
+*.zarr
+*.h5
+*.hdf
+*.hdf5
+*.pkl
+*.pickle
+*.npz
+
+# Logs and diagnostics
+logs/
+*.log
+*.out
+*.err
+
+# Local tooling
+.qodo
+.claude/
+.obsidian/
+
+# Personal guides and notes (not for publication)
+guides_not_for_GitHub/
+AGENTS.md
+WORKFLOW.md
+CLAUDE.md
+
+# UV package manager artifacts
+.uv-bin/
+.uv-cache/
+.uv-python/
+
+# Documentation builds
+docs/_build/
+site/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+CLAUDE.md
+
+# Exception: Allow minimal reproducibility data
+!data/processed/
+!data/processed/time_series/
+!data/processed/time_series/*.nc
+!data/processed/time_series/E-ind/
+!data/processed/time_series/E-ind/*.nc
+!data/processed/time_series/C-ind/
+!data/processed/time_series/C-ind/*.nc
