@@ -1,5 +1,7 @@
 # ENSO-ERA5 Climate Analysis Codebase
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18049532.svg)](https://doi.org/10.5281/zenodo.18049532)
+
 ## Research Snapshot
 This repository contains the workflow behind *South Tropical Atlantic and South Atlantic Convergence Zone: Opportunities for Long-Lead ENSO Diversity Prediction* (Bellacanzone, Bordoni & Shepherd, 2025). The pipeline couples ERA5 reanalysis (1945–2024) with PCMCI+ causal discovery and targeted MCA/REOF searches to isolate South Atlantic–SAMS pathways that precondition ENSO diversity. Reproducing the analysis should recover:
 - A JJA(-1) subtropical South Atlantic SST REOF mode that leads Eastern-Pacific ENSO events by six seasons.
@@ -59,7 +61,13 @@ DATA.md                     # ERA5 data acquisition guide
 - New features should include appropriate testing and documentation. See `CONTRIBUTING.md` for validation requirements.
 
 ## License & Citation
-The project is released under the MIT License (`LICENSE`). Cite the work as *Bellacanzone, F., Bordoni, S., & Shepherd, T. (2025). ENSO Diversity Prediction via South Atlantic–SAMS Pathways (in review)* until the formal reference and DOI become available.
+The project is released under the MIT License (`LICENSE`).
+
+**Software Citation:**
+> Bellacanzone, F., Bordoni, S., & Shepherd, T. (2025). ENSO-ERA5 Climate Analysis Codebase (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18049533
+
+**Paper Citation** (in review):
+> Bellacanzone, F., Bordoni, S., & Shepherd, T. (2025). South Tropical Atlantic and South Atlantic Convergence Zone: Opportunities for Long-Lead ENSO Diversity Prediction. *Climate Dynamics* (in review).
 
 ## Contact
 Questions, collaboration, or data access: [Open an issue](https://github.com/mafabiorx/Causal-ENSO/issues)

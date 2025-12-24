@@ -1,6 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the preferred citation below."
 title: "ENSO-ERA5 Climate Analysis Codebase"
+version: "1.0.0"
+doi: "10.5281/zenodo.18049533"
+date-released: "2025-12-24"
 type: software
 license: MIT
 repository-code: "https://github.com/mafabiorx/Causal-ENSO"
