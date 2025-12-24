@@ -62,4 +62,4 @@ DATA.md                     # ERA5 data acquisition guide
 The project is released under the MIT License (`LICENSE`). Cite the work as *Bellacanzone, F., Bordoni, S., & Shepherd, T. (2025). ENSO Diversity Prediction via South Atlantic–SAMS Pathways (in review)* until the formal reference and DOI become available.
 
 ## Contact
-Questions, collaboration, or data access issues: Fabio Bellacanzone — `fabio.bellacanzone@unitn.it` (backup `mafabiorx68@gmail.com`).
+Questions, collaboration, or data access: [Open an issue](https://github.com/mafabiorx/Causal-ENSO/issues)

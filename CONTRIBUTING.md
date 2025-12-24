@@ -112,8 +112,8 @@ This preserves data integrity while addressing statistical issue.
 **Option 1: Using UV (recommended)**
 ```bash
 # Clone repository
-git clone https://github.com/[USERNAME]/TBI_repo.git
-cd TBI_repo
+git clone https://github.com/mafabiorx/Causal-ENSO.git
+cd Causal-ENSO
 
 # Create environment
 uv venv TBI_env
@@ -180,9 +180,9 @@ python -c "import xarray, tigramite, windspharm; print('✓ Core dependencies re
 **1. Fork and branch**
 ```bash
 # Fork repository on GitHub, then:
-git clone https://github.com/YOUR_USERNAME/TBI_repo.git
-cd TBI_repo
-git remote add upstream https://github.com/ORIGINAL_OWNER/TBI_repo.git
+git clone https://github.com/YOUR_USERNAME/Causal-ENSO.git
+cd Causal-ENSO
+git remote add upstream https://github.com/mafabiorx/Causal-ENSO.git
 git checkout -b fix/descriptive-name  # or feat/descriptive-name
 ```
 
